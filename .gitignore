@@ -1,0 +1,12 @@
+# Arquivos temporários do Vim
+*.swp
+*.swo
+*.swn
+
+# Zone Identifier do Windows (ADS)
+*:Zone.Identifier
+
+# Scripts que não quero versionar
+start.ps1
+start.sh
+
